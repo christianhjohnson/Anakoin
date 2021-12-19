@@ -1,3 +1,3 @@
 # Anakoin
 This is the repo I used to create my first cryto token from Solana
-![alt text](
+![alt text](https://github.com/christianhjohnson/Anakoin/blob/main/Anakoin.png)
